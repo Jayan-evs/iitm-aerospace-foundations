@@ -1,6 +1,6 @@
-# iitm-aerospace-foundations
+# iitm-aeronautics and space technology-foundations
 My coding and physics simulation projects for the IIT Madras BS program.
-# IITM Aerospace Foundations
+# IITM Aeronautics and space technology Foundations
 
 Welcome to my engineering portfolio! This repository contains my academic and independent work for the IIT Madras BS in Aeronautics and Space Technology.
 ## 🚀 What I am Learning (Foundation Level)
